@@ -43,8 +43,8 @@ const Cart = () => {
                         <Col xs={12} sm={9} className="cart-details">
                           <h3>{item.productName}</h3>
                           <h4>
-                            ${item.price}.00 * {item.qty}
-                            <span>${productQty}.00</span>
+                            Rs {item.price}.00 * {item.qty}
+                            <span>Rs {productQty}.00</span>
                           </h4>
                         </Col>
                         <Col xs={12} sm={3} className="cartControl">
@@ -81,7 +81,7 @@ const Cart = () => {
               <h2>Cart Summary</h2>
               <div className=" d_flex">
                 <h4>Total Price :</h4>
-                <h3>${totalPrice}.00</h3>
+                <h3>Rs {totalPrice}.00</h3>
               </div>
             </div>
           </Col>

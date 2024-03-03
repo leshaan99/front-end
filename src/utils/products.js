@@ -14,13 +14,13 @@ import productImg13 from "../Images/Vodka1.png";
 import productImg14 from "../Images/Vodka2.png";
 
 
-import arrackSlide from "../Images/Arrack01.png";
+import arrackSlide from "../Images/Arrack03.png";
 import ginSlide from "../Images/Gin1.png";
 import whiskySlide from "../Images/Whisky3.png";
 
 export const SliderData = [
   {
-      id: 1,
+      id: 2,
       title: "50% Off For Your First Order",
       desc: " ",
       cover: arrackSlide,
