@@ -1,2 +1,2 @@
 # Online Liquor Store front-end
-I create a full stack e-commerce web application front end to do online shopping using React, JavaScript, html & CSS. Customers can view the product. Simple design use for easy to use and more user atraction.
+Developed a full-stack e-commerce web application frontend for online shopping using React, JavaScript, HTML, and CSS. The application enables customers to browse products effortlessly, with a focus on a clean, user-friendly design that enhances usability and maximizes user engagement.
